@@ -19,8 +19,8 @@ def index():
 def generate_token():
     TWILIO_ACCOUNT_SID = 'ACdf2eed5b4094a2bb1afd2b26ef41b270'
     TWILIO_SYNC_SERVICE_SID = 'IS8ef1224d80810fc67077ed2cf284f5b9'
-    TWILIO_API_KEY = 'SKff11b33a6560a78c27c0a8d1e72706d5'
-    TWILIO_API_SECRET = 'd1hWJlWhrXIhT6QF6EHXNTQFvkUZqiam'
+    TWILIO_API_KEY = 'SK5c03fec55afc9ef7465ac30a1787efd8'
+    TWILIO_API_SECRET = 'IzUyi1wJ4Qqb1afsx7OmOhskTJF3YX6t'
     fn=fake.user_name()
     print(fn)
 
